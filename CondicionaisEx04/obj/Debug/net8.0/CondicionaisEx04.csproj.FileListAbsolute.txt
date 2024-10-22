@@ -1,0 +1,15 @@
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\bin\Debug\net8.0\CondicionaisEx04.exe
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\bin\Debug\net8.0\CondicionaisEx04.deps.json
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\bin\Debug\net8.0\CondicionaisEx04.runtimeconfig.json
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\bin\Debug\net8.0\CondicionaisEx04.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\bin\Debug\net8.0\CondicionaisEx04.pdb
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.AssemblyInfoInputs.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.AssemblyInfo.cs
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.csproj.CoreCompileInputs.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.sourcelink.json
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\refint\CondicionaisEx04.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.pdb
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\CondicionaisEx04.genruntimeconfig.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\CondicionaisEx04\obj\Debug\net8.0\ref\CondicionaisEx04.dll
