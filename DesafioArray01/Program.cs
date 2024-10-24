@@ -1,19 +1,42 @@
-﻿int[] numeros = new int[6];
-int par = 0;
+﻿Console.WriteLine(@"
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+|               Boas-Vindas              |
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+|       ▄▄▀▀▀▀▀▀▀▀▀▀▄▄█▄    ▄    █       |
+|      █▀             ▀▀█▄   ▀         ▄ |
+|    ▄▀                 ▀██   ▄▀▀▀▄▄  ▀  |
+|  ▄█▀▄█▀▀▀▀▄     ▄▀▀█▄  ▀█▄  █▄   ▀█    |
+| ▄█ ▄▀  ▄▄▄ █   ▄▀▄█▄ ▀█  █▄  ▀█    █   |
+|▄█  █   ▀▀▀ █  ▄█ ▀▀▀  █   █▄  █    █   |
+|██   ▀▄   ▄█▀   ▀▄▄▄▄▄█▀   ▀█  █▄   █   |
+|██     ▀▀▀                  █ ▄█    ▀▀█▄|
+|██                     █    ██▀     ▄▄██|
+|██                     █    █       ▀▀█▄|
+|██                    █     █       ▄▄██|
+| ██                  ▄▀     █       ▀▀█▄|
+| ▀█      █         ▄█▀      █       ▄▄██|
+| ▄██▄     ▀▀▀▄▄▄▄▀▀         █       ▀▀█▄|
+|  ▀▀▀▀                      █▄▄▄▄▄▄▄▄▄██|
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+");
+
+int [] numeros = new int[6];
 int impar = 0;
+int par = 0;
 
-for (int i = 0; i < 6; i++){
-    Console.WriteLine($"Digite um Numero inteiro Positivo: ");
-    numeros[i] = int.Parse(Console.ReadLine());
+for (int i = 0; i < 6; i++) {
+ 
+Console.WriteLine($"Digite um numero inteiro:");
+numeros[i] = int.Parse(Console.ReadLine());
 
+if (numeros [i] % 2 == 0){
+par++;
 
-    if (numeros[1] % 2 == 0){
-        par++;
-    }
-    else{
-        impar++;
-    }
+ }else {
+
+    impar++;
+ }
+
 }
 
-Console.WriteLine($"Quantidade total de numeros pares: {par}");
-Console.WriteLine($"Quantidade total de numeros impares: {impar}");
+Console.WriteLine($"a quantia de numeros impares {impar} ");
+Console.WriteLine($"a quantia de numeros pares {par} ");
