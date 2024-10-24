@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioLacosEx02/1.0.0": {
+        "runtime": {
+          "DesafioLacosEx02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioLacosEx02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

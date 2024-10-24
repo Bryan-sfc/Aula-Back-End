@@ -1,0 +1,15 @@
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\bin\Debug\net8.0\DesafioLacosEx02.exe
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\bin\Debug\net8.0\DesafioLacosEx02.deps.json
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\bin\Debug\net8.0\DesafioLacosEx02.runtimeconfig.json
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\bin\Debug\net8.0\DesafioLacosEx02.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\bin\Debug\net8.0\DesafioLacosEx02.pdb
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.AssemblyInfoInputs.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.AssemblyInfo.cs
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.csproj.CoreCompileInputs.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.sourcelink.json
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\refint\DesafioLacosEx02.dll
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.pdb
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\DesafioLacosEx02.genruntimeconfig.cache
+C:\Users\55890867873\Desktop\Aula-Back-End\DesafioLacoEx02\obj\Debug\net8.0\ref\DesafioLacosEx02.dll

@@ -9,8 +9,8 @@
 | ▄█ ▄▀  ▄▄▄ █   ▄▀▄█▄ ▀█  █▄  ▀█    █   |
 |▄█  █   ▀▀▀ █  ▄█ ▀▀▀  █   █▄  █    █   |
 |██   ▀▄   ▄█▀   ▀▄▄▄▄▄█▀   ▀█  █▄   █   |
-|██     ▀▀▀                  █ ▄█    █   |
-|██                     █    ██▀    █▄   |
+|██     ▀▀▀                  █ ▄█    ▀▀█▄|
+|██                     █    ██▀     ▄▄██|
 |██                     █    █       ▀▀█▄|
 |██                    █     █       ▄▄██|
 | ██                  ▄▀     █       ▀▀█▄|
@@ -19,27 +19,49 @@
 |  ▀▀▀▀                      █▄▄▄▄▄▄▄▄▄██|
 +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+");
 
-int QtdMulheres;
-int QtdHomens;
+int homem = 0;
+int mulher = 0;
+int sport = 0;
+int sportnao = 0;
+int entrevistados = 0;
 
-for (int i = 1, cont <= 10, cont++)
+Console.WriteLine($"Quantas pessoas tem na sua mesa?");
+int pessoas = int.Parse(Console.ReadLine()!);
+
+
+for (int n = 1; n <= pessoas; n++)
 {
-    Console.WriteLine(@$"Qual seu Sexo?"
-    1)Homem
-    2)Mulher");
-    string genero = Console.ReadLine();
+    Console.WriteLine("Informe seu sexo m/f");
+    string sexo = Console.ReadLine()!;
+    Console.WriteLine();
 
-    if (genero == "1")
+    Console.WriteLine("voce gosta de esportes s/n?");
+    string esporte = Console.ReadLine()!;
+    Console.WriteLine();
+
+    if (sexo == "m")
     {
-        QtdHomens++;
+        homem++;
     }
-        else
+    else
     {
-        QtdMulheres;
+        mulher++;
+    }
+
+    if (esporte == "s")
+    {
+        sport++;
+    } else {
+        sportnao++;
     }
 }
+int qtdEntrevistado = (homem + mulher);
 
-Console.WriteLine($"Quantidade de Homens: {QtdHomens}");
-Console.WriteLine($"Quantidade de Mulheres: {QtdMulheres}");
-
-
+float percentual = (100 / qtdEntrevistado) * sport;
+ 
+Console.WriteLine($"A quantidade de homens: {homem}");
+Console.WriteLine($"A quantidade de mulheres: {mulher}");
+Console.WriteLine($"A quantidade de pessoas que gostam de esportes: {sport}");
+Console.WriteLine($"A quantidade de pessoas que não gostam de esportes: {sportnao}");
+Console.WriteLine($"A quantidade de entrevistados: {qtdEntrevistado}");
+Console.WriteLine($"Percentual de pessoas que não gostam de esportes: {percentual}%");
