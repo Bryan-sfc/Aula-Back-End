@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55890867873\\Desktop\\Aula-Back-End\\DesafioArray01\\DesafioArray01.csproj": {}
+    "C:\\Users\\55890867873\\Desktop\\aula-back-end\\desafioarray01\\DesafioArray01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55890867873\\Desktop\\Aula-Back-End\\DesafioArray01\\DesafioArray01.csproj": {
+    "C:\\Users\\55890867873\\Desktop\\aula-back-end\\desafioarray01\\DesafioArray01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\Aula-Back-End\\DesafioArray01\\DesafioArray01.csproj",
+        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\aula-back-end\\desafioarray01\\DesafioArray01.csproj",
         "projectName": "DesafioArray01",
-        "projectPath": "C:\\Users\\55890867873\\Desktop\\Aula-Back-End\\DesafioArray01\\DesafioArray01.csproj",
+        "projectPath": "C:\\Users\\55890867873\\Desktop\\aula-back-end\\desafioarray01\\DesafioArray01.csproj",
         "packagesPath": "C:\\Users\\55890867873\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55890867873\\Desktop\\Aula-Back-End\\DesafioArray01\\obj\\",
+        "outputPath": "C:\\Users\\55890867873\\Desktop\\aula-back-end\\desafioarray01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55890867873\\AppData\\Roaming\\NuGet\\NuGet.Config",
