@@ -1,0 +1,15 @@
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.exe
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.deps.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.runtimeconfig.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\bin\Debug\net8.0\ClasseObjeto.pdb
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.AssemblyInfo.cs
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.sourcelink.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\refint\ClasseObjeto.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.pdb
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ClasseObjeto.genruntimeconfig.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\ClasseObjeto\obj\Debug\net8.0\ref\ClasseObjeto.dll
