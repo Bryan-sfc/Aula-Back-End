@@ -14,5 +14,16 @@ namespace ClasseObjeto.Classes
         public string nome;
 
         public int idade;
+
+        public void FazerBarulho(string barulho = "Barulho Genérico")
+        {
+            Console.WriteLine($"Som do Animal: {barulho}");
+            
+        }
+
+        public void Envlhecer()
+        {
+            idade = idade + 1;
+        }
     }
 }

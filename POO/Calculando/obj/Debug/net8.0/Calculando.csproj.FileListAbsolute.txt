@@ -1,0 +1,5 @@
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.AssemblyInfoInputs.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.AssemblyInfo.cs
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.csproj.CoreCompileInputs.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.sourcelink.json

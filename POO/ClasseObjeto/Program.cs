@@ -1,6 +1,4 @@
 ﻿//Importando as classes de dentro da pasta Classes
-using System.Globalization;
-using System.Net.Http.Headers;
 using ClasseObjeto.Classes;
 
 Console.WriteLine($"");
@@ -50,4 +48,20 @@ Console.WriteLine($"Idade do {peixe.nome}: {peixe.idade}");
 Console.WriteLine($"Cor do {peixe.nome}: {peixe.cor}");
 Console.WriteLine($"Raça do {peixe.nome}: {peixe.raca}");
 
+Console.WriteLine($"");
+//-------------------------------------------------------------------//
+//-------------------------------------------------------------------//
+
+cachorro.FazerBarulho("Au Au!");
+Console.WriteLine($"Idade de {cachorro.nome} é {cachorro.idade}");
+cachorro.Envlhecer();
+Console.WriteLine($"Nova idade de {cachorro.nome} agora é {cachorro.idade}");
+Console.WriteLine($"");
+
+macaco.FazerBarulho("Uh Uh Ah Ah");
+Console.WriteLine($"Idade de {macaco.nome} agora é {macaco.idade}");
+Console.WriteLine($"");
+
+peixe.FazerBarulho("Blop Blop");
+Console.WriteLine($"Idade de {peixe.nome} agora é {peixe.idade}");
 Console.WriteLine($"");
