@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\Calculando\\Calculando.csproj": {}
+    "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\calculando\\Calculando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\Calculando\\Calculando.csproj": {
+    "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\calculando\\Calculando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\Calculando\\Calculando.csproj",
+        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\calculando\\Calculando.csproj",
         "projectName": "Calculando",
-        "projectPath": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\Calculando\\Calculando.csproj",
+        "projectPath": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\calculando\\Calculando.csproj",
         "packagesPath": "C:\\Users\\55890867873\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\Calculando\\obj\\",
+        "outputPath": "C:\\Users\\55890867873\\Desktop\\Bryan\\Aula-Back-End\\POO\\calculando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55890867873\\AppData\\Roaming\\NuGet\\NuGet.Config",

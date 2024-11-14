@@ -6,34 +6,32 @@ using System.Threading.Tasks;
 
 namespace Calculando.Classes
 {
-    public class Calculando
+    public class Calculadora
     {
-        float numero1;
+        public float numero1, numero2;
 
-        float numero2;
-
-        public void somar(float valor)
+        public void somar()
         {
-            valor = numero1 + numero2;
-            Console.WriteLine($"Resultado da Soma: {valor}");
+            float Resultado = numero1 + numero2;
+            Console.WriteLine($"Resultado da Soma: {Resultado}");
         }
 
-        public void subtrair(float valor)
+        public void subtrair()
         {
-            valor = numero1 - numero2;
-            Console.WriteLine($"Resultado da Subtração: {valor}");
+            float Resultado = numero1 - numero2;
+            Console.WriteLine($"Resultado da Subtração: {Resultado}");
         }
 
-        public void Multiplicar(float valor)
+        public void Multiplicar()
         {
-            valor = numero1 * numero2;
-            Console.WriteLine($"Resultado da Multiplicação: {valor}");
+            float Resultado = numero1 * numero2;
+            Console.WriteLine($"Resultado da Multiplicação: {Resultado}");
         }
 
-        public void Divisao(float valor)
+        public void Divisao()
         {
-            valor = numero1 / numero2;
-            Console.WriteLine($"Resultado da Divisão: {valor}");
+            float Resultado = numero1 / numero2;
+            Console.WriteLine($"Resultado da Divisão: {Resultado}");
         }
     }
 }

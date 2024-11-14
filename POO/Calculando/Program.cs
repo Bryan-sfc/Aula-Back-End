@@ -1,17 +1,18 @@
-﻿using System.Diagnostics.Contracts;
+﻿checked using System.Diagnostics.Contracts;
 using Calculando.Classes;
 
-Calculando resultado = new Calculando();
+Calculadora calc = new Calculadora();
 
 Console.WriteLine($"Bem Vindo a calculadora");
 
 Console.Write($"Digite o Primeiro Número: ");
 float numero1 = float.Parse(Console.ReadLine()!);
-Console.WriteLine();
 
-Console.Write($"Digite o Primeiro Número: ");
+Console.Write($"Digite o Segundo Número: ");
 float numero2 = float.Parse(Console.ReadLine()!);
-Console.WriteLine();
+
+calc.numero1 = numero1;
+calc.numero2 = numero2;
 
 Console.WriteLine(@"
 Deseja fazer qual Operação?
@@ -19,21 +20,23 @@ Deseja fazer qual Operação?
     2)subtração
     3)Multiplicação
     4)Divisão");
+Console.Write($"Opção: ");
 string opcao = Console.ReadLine()!;
+Console.WriteLine();
 
 if (opcao == "1")
 {
-    Console.WriteLine($"{somar}");
+    calc.somar();
 }
 else if (opcao == "2")
 {
-    Console.WriteLine($"{subtrair}");
+    calc.subtrair();
 }
 else if (opcao == "3")
 {
-    Console.WriteLine($"{Multiplicar}");
+    calc.Multiplicar();
 }
 else
 {
-    Console.WriteLine($"{Divisao}");
+    calc.Divisao();
 }

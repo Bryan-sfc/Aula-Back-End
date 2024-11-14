@@ -3,3 +3,13 @@ C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0
 C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.AssemblyInfo.cs
 C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.csproj.CoreCompileInputs.cache
 C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\Calculando\obj\Debug\net8.0\Calculando.sourcelink.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\bin\Debug\net8.0\Calculando.exe
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\bin\Debug\net8.0\Calculando.deps.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\bin\Debug\net8.0\Calculando.runtimeconfig.json
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\bin\Debug\net8.0\Calculando.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\bin\Debug\net8.0\Calculando.pdb
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\obj\Debug\net8.0\Calculando.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\obj\Debug\net8.0\refint\Calculando.dll
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\obj\Debug\net8.0\Calculando.pdb
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\obj\Debug\net8.0\Calculando.genruntimeconfig.cache
+C:\Users\55890867873\Desktop\Bryan\Aula-Back-End\POO\calculando\obj\Debug\net8.0\ref\Calculando.dll
